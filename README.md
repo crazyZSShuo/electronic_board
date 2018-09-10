@@ -20,6 +20,29 @@ filter_fields
 filterset_class
 }
 
+####系统构成
+django rest framework 系统实现前台功能
+django自带admin后台管理系统
+
+####Django Rest Framework 技能
+
+1.通用view实现 rest api接口
+apiview方式实现api
+genericView方式实现api接口
+Viewset和router方式实现api接口和url配置
+Django_filter searchFilter OrderFilter 分页
+通用mixin
+
+2.权限和认证；
+Authentication用户认证设置
+动态设置permission、authentication
+Validators实现字段验证
+
+3.序列化和表单验证
+Serializer
+ModelSerializer
+动态设置Serializer
+
 #### 环境搭建
 所需环境：
 certifi==2018.8.13
