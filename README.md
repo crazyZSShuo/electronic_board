@@ -20,12 +20,11 @@ filter_fields
 filterset_class
 }
 
-####系统构成
+系统构成
 django rest framework 系统实现前台功能
 django自带admin后台管理系统
 
-####Django Rest Framework 技能
-
+Django Rest Framework
 1.通用view实现 rest api接口
 apiview方式实现api
 genericView方式实现api接口
